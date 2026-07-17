@@ -27,6 +27,7 @@ public class LoopLesson {
         System.out.println("Logging in with: ");
         System.out.println("Username: " + username);
         System.out.println("Password: " + password);
+        System.out.println();
     }
 
     public static void main(String[] args) {
